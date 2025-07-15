@@ -1,0 +1,19 @@
+.navbar{
+  border-width: 10px;
+  border-color: #000000; 
+  margin: 0%;
+}
+.navlist{
+  display:flex;
+  list-style: none;
+  font-style: none;
+  justify-content: space-between;
+
+}
+.navlist li a{
+  text-decoration: none;        
+  color: #000000;               
+  font-weight: 500;
+  font-size: 1.1rem;
+  transition: color 0.2s ease-in-out;
+}
